@@ -9,4 +9,4 @@ Endless(Within reason)
 <li> Add cross-platform console sizing </li>
 <li> Add way to get cursor position </li>
 # Learn
-to learn about how this is made and what might be implemented go [Here](https://www2.ccs.neu.edu/research/gpc/VonaUtils/vona/terminal/vtansi.htm)
+to learn about how this is made and what might be implemented go Here: https://www2.ccs.neu.edu/research/gpc/VonaUtils/vona/terminal/vtansi.htm
